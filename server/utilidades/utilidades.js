@@ -1,5 +1,4 @@
-
-const crearMensaje = (nombre, mensaje)=>{
+const crearMensaje = (nombre, mensaje) => {
 
     return {
         nombre,
